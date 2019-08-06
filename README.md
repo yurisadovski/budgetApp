@@ -3,7 +3,7 @@ Simple Budget App
 
 implementation:
 
-HTML5
+HTML
 CSS3
 javascript ES5 + ES6
 
